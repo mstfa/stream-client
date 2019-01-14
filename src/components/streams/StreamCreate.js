@@ -5,4 +5,4 @@ const  StreamCreate = () => {
     return <div>StreamCreate</div>
 }
 
-expoer default StreamCreate;
+export default StreamCreate;

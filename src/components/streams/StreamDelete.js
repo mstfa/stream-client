@@ -5,4 +5,4 @@ const  StreamDelete= () => {
     return <div>StreamDelete</div>
 }
 
-expoer default StreamDelete;
+export default StreamDelete;

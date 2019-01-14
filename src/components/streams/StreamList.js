@@ -5,4 +5,4 @@ const  StreamList = () => {
     return <div>StreamList</div>
 }
 
-expoer default StreamList;
+export default StreamList;

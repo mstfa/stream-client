@@ -5,4 +5,4 @@ const  StreamEdit = () => {
     return <div>StreamEdit</div>
 }
 
-expoer default StreamEdit;
+export default StreamEdit;
